@@ -7,4 +7,4 @@
 ### how do you store the output of variables in bash?
 
 # this will currently only compile linebreaker
-gcc -o linebreaker linebreaker.c
+gcc -Wall -Werror -o linebreaker linebreaker.c
