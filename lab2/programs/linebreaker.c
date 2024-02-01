@@ -12,9 +12,11 @@ char* linebreaker(const char* input) {
         exit(1);
     }
 
-    /* This should be completely replaced in your assignment */
+    /* This should be completely replaced in your lab */
     /* This will make it so linebreaker just returns the input untouched */
     putchar('\n');
+    // TODO: is strcpy a safe function to use here? 
+    // research a different "safe" function to use
     strcpy(result, input);
     /********************************************************/
 
