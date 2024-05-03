@@ -69,7 +69,7 @@ Describe each part below in 3--5 sentences. Make sure to include possible positi
 ### Describe your Server-Side Stack?
 Describe each part below in 3--5 sentences. Make sure to include possible positives and negatives of your choices.
 
-##### Describe the Teck Stack (frameworks/languages):
+##### Describe the Tech Stack (frameworks/languages):
 
 
 ##### Describe the Network Protocols this tech uses:
